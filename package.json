@@ -1,0 +1,18 @@
+{
+  "name": "bingo-tambola-housie",
+  "version": "1.0.0",
+  "description": "Node.js app for bingo|tambola|housie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Tarun Chawla",
+  "license": "ISC",
+  "dependencies": {
+    "boom": "^7.3.0",
+    "hapi": "^18.1.0",
+    "mongoose": "^5.9.18",
+    "nodemon": "^2.0.4"
+  }
+}
